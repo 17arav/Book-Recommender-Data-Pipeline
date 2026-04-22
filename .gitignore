@@ -1,0 +1,10 @@
+# Ignore EVERYTHING inside the datasets folder
+datasets/*
+
+# EXCEPT these specific files! (Change to .zip if you compressed them)
+!datasets/Master_Dataset.csv
+!datasets/Recommender_Matrix.libsvm
+
+# Keep ignoring standard Python cache files
+__pycache__/
+.ipynb_checkpoints/
