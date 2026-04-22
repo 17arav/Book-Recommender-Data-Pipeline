@@ -8,3 +8,6 @@ datasets/*
 # Keep ignoring standard Python cache files
 __pycache__/
 .ipynb_checkpoints/
+
+dummy.ipynb
+Project Step 1.docx
