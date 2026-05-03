@@ -1,21 +1,44 @@
 User_ID,Book_ID,Book_Title,Recommendation_Score
 8,688,The Da Vinci Code,19
 8,7123,Last Man Standing,19
+42,42624,Texas Woman,10
+42,12402,K-Pax,10
+42,5365,Still Life With Crows,9
+42,1559,The Cat Who Played Brahms,8
+105,N/A,Not enough data to recommend,0
+11676,N/A,Not enough data to recommend,0
+23902,5683,Beloved,10
+23902,7477,Cowboys Are My Weakness,10
+23902,44029,Madame Bovary: Life in a Country Town (World's Classics),9
+23902,4482,Midnight In the Garden of Good and Evil,8
+31415,688,The Da Vinci Code,19
+31415,7123,Last Man Standing,19
+42000,N/A,Not enough data to recommend,0
+55555,N/A,Not enough data to recommend,0
+68000,N/A,Not enough data to recommend,0
+82000,N/A,Not enough data to recommend,0
 98391,44787,Rising Stars : Born In Fire (Vol. 1),10
 98391,127844,Seven Wild Sisters,10
 98391,49165,Once A Pirate,10
 98391,16476,Sabine's Notebook: In Which the Extraordinary Correspondence of Griffin & Sabine Continues,10
 98391,149,Crow Lake (Today Show Book Club #7),10
+105000,N/A,Not enough data to recommend,0
+125000,N/A,Not enough data to recommend,0
+145000,7849,MÃ?ÃÂ¶rder ohne Gesicht.,10
+145000,57538,Die Stadt der Blinden.,10
+145000,57452,Der Schatten des Windes.,10
+145000,134038,PortrÃ?ÃÂ¤t in Sepia.,9
+145000,54424,Die Unsterblichkeit. Roman,9
 153662,49224,Wicked,10
 153662,65613,Deadly Pleasure,10
 153662,93,Fast Women,10
 153662,32911,Mother Earth Father Sky,10
 153662,147,Wish You Well,10
+175000,N/A,Not enough data to recommend,0
 189835,50714,Heartsongs,10
 189835,5686,The Eyes of the Dragon,10
 189835,98361,The Stand,10
 189835,47184,Two Dead Girls (Green Mile S.),10
-23902,5683,Beloved,10
-23902,7477,Cowboys Are My Weakness,10
-23902,44029,Madame Bovary: Life in a Country Town (World's Classics),9
-23902,4482,Midnight In the Garden of Good and Evil,8
+210000,N/A,Not enough data to recommend,0
+240000,N/A,Not enough data to recommend,0
+275000,N/A,Not enough data to recommend,0
